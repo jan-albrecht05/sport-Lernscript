@@ -1,4 +1,4 @@
-# sport-Lernscript
+# Sport-Lernscript
 <b>Themen:</b> 
 - [ ] <u>Struktur sportlicher Bewegungen:</u><br>
         - Phasenanalyse nach Meinel: zyklische und azyklische Bewegungen<br>
