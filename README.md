@@ -1,20 +1,20 @@
 # sport-Lernscript
 <b>Themen:</b> 
-- [ ] <u>Struktur sportlicher Bewegungen:</u>
-        - Phasenanalyse nach Meinel: zyklische und azyklische Bewegungen
-        - Funktionsanalyse nach Göhner: Hauptfunktionsphase und Hilfsfunktionsphase
-        - Beobachtungskriterien: Bewegungsumfang, - tempo, -rhythmus, -stärke, -kopplung, -fluss, -präzision, -konstanz, -harmonie
-            - siehe Dokument
+- [ ] <u>Struktur sportlicher Bewegungen:</u><br>
+        - Phasenanalyse nach Meinel: zyklische und azyklische Bewegungen<br>
+        - Funktionsanalyse nach Göhner: Hauptfunktionsphase und Hilfsfunktionsphase<br>
+        - Beobachtungskriterien: Bewegungsumfang, - tempo, -rhythmus, -stärke, -kopplung, -fluss, -präzision, -konstanz, -harmonie<br>
+            - siehe Dokument<br>
             → http://www.sportunterricht.de/lksport/bewegt2.html
-
-- [ ] <u>Bewegungsbeschreibungen:</u>
-        - Was ist Bewegungslehre?
-        - Was ist Biomechanik?
-        - Unterschied Kinematik und Dynamik
-        - Kinematik: Strecke, Winkel, Zeit
-        - Kinematik: Translationen und Rotationen
-            - siehe Dokumente
-            → http://www.sportunterricht.de/lksport/lkbeweg.html#ein
+<br><br>
+- [ ] <u>Bewegungsbeschreibungen:</u><br>
+        - Was ist Bewegungslehre?<br>
+        - Was ist Biomechanik?<br>
+        - Unterschied Kinematik und Dynamik<br>
+        - Kinematik: Strecke, Winkel, Zeit<br>
+        - Kinematik: Translationen und Rotationen<br>
+            - siehe Dokumente<br>
+            → http://www.sportunterricht.de/lksport/lkbeweg.html#ein<br>
 
 - [ ] <u>Biomechanische Prinzipien:</u>
         - Prinzip der Anfangskraft
