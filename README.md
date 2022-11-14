@@ -15,22 +15,22 @@
         - Kinematik: Translationen und Rotationen<br>
             - siehe Dokumente<br>
             → http://www.sportunterricht.de/lksport/lkbeweg.html#ein<br>
-
-- [ ] <u>Biomechanische Prinzipien:</u>
-        - Prinzip der Anfangskraft
-        - Prinzip des optimalen Beschleunigungsweges
-        - Prinzip der optimalen Tendenz im Beschleunigungsverlauf
-        - Prinzip der zeitlichen Koordination von Teilimpulsen
-        - Prinzip der Gegenwirkung
-        - Prinzip der Impulserhaltung
-            - siehe Dokumente
-            → http://www.sportunterricht.de/lksport/bioprinz.html
-
-- [ ] <u>Olympische Spiele:</u>
-        - Entwicklung der Olympischen Spiele
-        - Leitbild des Olympischen Sports
-            - siehe Dokumente
-            → http://www.sportunterricht.de/lksport/olym1.html
-            → https://stillmed.olympic.org/Documents/Reports/FR/fr_report_1304.pdf
-            → https://www.planet-wissen.de/gesellschaft/sport/geschichte_der_olympischen_spiele/index.html
-            → https://www.sportlexikon.com/olympische-spiele
+<br><br>
+- [ ] <u>Biomechanische Prinzipien:</u><br>
+        - Prinzip der Anfangskraft<br>
+        - Prinzip des optimalen Beschleunigungsweges<br>
+        - Prinzip der optimalen Tendenz im Beschleunigungsverlauf<br>
+        - Prinzip der zeitlichen Koordination von Teilimpulsen<br>
+        - Prinzip der Gegenwirkung<br>
+        - Prinzip der Impulserhaltung<br>
+            - siehe Dokumente<br>
+            → http://www.sportunterricht.de/lksport/bioprinz.html<br>
+<br><br>
+- [ ] <u>Olympische Spiele:</u><br>
+        - Entwicklung der Olympischen Spiele<br>
+        - Leitbild des Olympischen Sports<br>
+            - siehe Dokumente<br>
+            → http://www.sportunterricht.de/lksport/olym1.html<br>
+            → https://stillmed.olympic.org/Documents/Reports/FR/fr_report_1304.pdf<br>
+            → https://www.planet-wissen.de/gesellschaft/sport/geschichte_der_olympischen_spiele/index.html<br>
+            → https://www.sportlexikon.com/olympische-spiele<br>
