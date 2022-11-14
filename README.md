@@ -1,6 +1,7 @@
 # sport-Lernscript
 Themen: 
- -[ ] Struktur sportlicher Bewegungen:
+ -[X] Struktur sportlicher Bewegungen:
+ 
         Phasenanalyse nach Meinel: zyklische und azyklische Bewegungen
         Funktionsanalyse nach Göhner: Hauptfunktionsphase und Hilfsfunktionsphase
         Beobachtungskriterien: Bewegungsumfang, - tempo, -rhythmus, -stärke, -kopplung, -fluss, -präzision, -konstanz, -harmonie
