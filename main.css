@@ -55,7 +55,6 @@ a:hover{
         transition: all .3s ease-in;
     }
     .reiter{
-        margin: 0;
         padding-bottom: 0.5rem;
         padding-top: 0.5rem;
         padding-left: 0;
@@ -77,15 +76,18 @@ a:hover{
         color: white;
         position: absolute;
         right: 0;
-        margin-right: 2rem;
+        margin-right: 1.5rem;
+        margin-top: 0.8rem;
+        transition: all .3s ease-in;
+        cursor: pointer;
+        font-size: 120%;
     }
     #hamburger1{
         display: block;
     }
     #hamburger2{
         display: none;
-    }
-    .activeham{
-        margin-top: -7.5rem;
+        transform: rotate(45deg);
+        font-size: 140%;
     }
 }
