@@ -2,6 +2,10 @@
     --gray: #262626;
     --lightgray: #353535;
 }
+::selection{
+    background-color: #33ff00;
+    color: black;
+}
 html{
     scrollbar-width: thin;
     scroll-snap-align: end;
@@ -10,9 +14,11 @@ html{
 }
 body{
     min-height: 100vh;
+    margin: 0;
     width: auto;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #262626;
+    background-color: var(--gray);
+    color: white;
 }
 img{
     width: 100%;
@@ -26,11 +32,32 @@ a{
 a:hover{
     color: red;
 }
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 #top{
     display: flex;
     width: 98vw;
     justify-content: center;
     margin-top: 1rem;
+    user-select: none;
+}
+#totop{
+    background-color: #33ff00;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin-bottom: 1.5rem;
+    margin-right: 1.5rem;
+    font-weight: bold;
+    font-size: large;
+    color: black;
+    user-select: none;
 }
 .reiter{
     height: auto;
@@ -45,6 +72,32 @@ a:hover{
 .hamburger{
     display: none;
 }
+#footer{
+    bottom: 0;
+    margin-bottom: 0;
+    text-align: center;
+    width: 100%;
+    height: 3rem;
+    color: white;
+    font-size: 120%;
+    background-color: var(--lightgray);
+}
+.thema{
+    height: 150vh;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2rem;
+    background-color: var(--lightgray);
+    padding: 0.5rem;
+    border-radius: 10px;
+}
+.thema:nth-child(1){
+    margin-top: 3rem
+}
+.thema .content{
+    padding: 1rem;
+}
 
 
 @media (max-width: 970px){
@@ -53,6 +106,10 @@ a:hover{
         justify-content: center;
         display: none;
         transition: all .3s ease-in;
+    }
+    #totop{
+        margin-bottom: 0.5rem;
+        margin-right: 0.5rem;
     }
     .reiter{
         padding-bottom: 0.5rem;
@@ -89,5 +146,15 @@ a:hover{
         display: none;
         transform: rotate(45deg);
         font-size: 140%;
+    }
+    #main{
+        padding-top: 3rem;
+    }
+    .thema .content{
+        padding: 0.5rem;
+    }
+    #footer{
+        height: 3rem;
+        margin-left: -0.5rem;
     }
 }
