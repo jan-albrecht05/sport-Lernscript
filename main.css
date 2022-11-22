@@ -58,6 +58,7 @@ a:hover{
     font-size: large;
     color: black;
     user-select: none;
+    z-index: 3;
 }
 .reiter{
     height: auto;
