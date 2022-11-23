@@ -37,6 +37,9 @@ a:hover{
     justify-content: center;
     align-items: center;
 }
+.marked{
+    color: red;
+}
 #top{
     display: flex;
     width: 98vw;
@@ -83,7 +86,7 @@ a:hover{
     background-color: var(--lightgray);
 }
 .thema{
-    height: 150vh;
+    min-height: 10rem;
     width: 90%;
     margin-left: auto;
     margin-right: auto;
@@ -98,7 +101,19 @@ a:hover{
 .thema .content{
     padding: 1rem;
 }
-
+.heading{
+    text-decoration: underline;
+}
+h3{
+    margin-top: 2rem;
+}
+li{
+    margin-left: 2rem;
+}
+.suplist{
+    margin-left: 4rem;
+    list-style-type: circle;
+}
 
 @media (max-width: 970px){
     #top{

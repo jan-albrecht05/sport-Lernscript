@@ -34,3 +34,4 @@
             → https://stillmed.olympic.org/Documents/Reports/FR/fr_report_1304.pdf<br>
             → https://www.planet-wissen.de/gesellschaft/sport/geschichte_der_olympischen_spiele/index.html<br>
             → https://www.sportlexikon.com/olympische-spiele<br>
+
