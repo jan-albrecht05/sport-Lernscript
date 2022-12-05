@@ -13,15 +13,19 @@ Bewegungsstärke:
 - Ausmaß der Einsetzung von Muuskelkraft in einer Bewegung
 
 Bewegungskopplung:
-
+- zweckmäßiges Zusammenspiel der Teilbewegungen in einem Bewegungsablauf
+- bewegungen müssen räumlich, zeitlich und dynamisch aufeinander abgestimmt sein
 
 Bewegungsfluss:
-
+- Grad der Kontinualität im Ablauf einer motorischen Bewegung
 
 Bewegungspräzision:
-
+- Übereinstimmung von soll- und Istwert der Bewegung Wieder
+ (Was wird erwartet und was wird geliefert)
 
 Bewegungskonstanz:
-
+- Übereinstimmen mehrerer Bewegungen einer Person
 
 Bewegungsharmonie:
+- erfasst Ausprägung aller Bewegungsmerkmale
+ (Anmut und Grazie, Natürlichkeit, Ausdruck, Rhythmus zur Musik,..)
